@@ -1,0 +1,9 @@
+[package]
+name = "rust_practice"
+version = "0.1.0"
+authors = ["Cosson2017 <m17601352776@163.com>"]
+edition = "2018"
+
+[dependencies]
+failure = "0.1"
+failure_derive = "0.1"
